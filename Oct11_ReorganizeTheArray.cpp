@@ -1,6 +1,5 @@
 class Solution {
   public:
-
 vector<int> rearrange(const vector<int>& arr) {
         // Code here
         vector<int> ans(arr.size(),-1);
