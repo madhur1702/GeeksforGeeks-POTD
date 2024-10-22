@@ -1,5 +1,3 @@
-
-
 class Solution {
   public:
     int sameOccurrence(vector<int> &arr, int x, int y) {
